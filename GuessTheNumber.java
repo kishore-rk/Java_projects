@@ -11,7 +11,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import java.util.Random;;
-public class Oasis_Task2 extends JFrame implements ActionListener{
+public class GuessTheNumber extends JFrame implements ActionListener{
 
     int rand_number, chance;
 
